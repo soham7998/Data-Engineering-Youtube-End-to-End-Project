@@ -1,6 +1,6 @@
 # Youtube-Data-Engineering-End-to-End-Analysis
-Sumarry 
-**This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
+# Sumarry 
+This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
 # Project Goals
 Data Ingestion — Build a mechanism to ingest data from different sources
 ETL System — We are getting data in raw format, transforming this data into the proper format
@@ -23,5 +23,6 @@ This Kaggle dataset contains statistics (CSV files).There are up to 200 trending
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
-![architecture](https://github.com/soham7998/Youtube-Data-Engineering-End-to-End-Analysis/architecture.jpeg)
+![architecture](https://github.com/soham7998/Youtube-Data-Engineering-End-to-End-Analysis/assets/112894790/647b571d-4598-4389-be78-0b14e1119d0b)
+
 
