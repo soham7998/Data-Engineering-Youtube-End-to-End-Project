@@ -13,7 +13,7 @@ This project aims to securely manage, streamline, and perform analysis on the st
 
 5.Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
 
-6.Reporting — Build a dashboard to get answers to the question we asked earlier
+6.Reporting — Build a dashboard to get answers to the question we asked earlier.
 
 Worked till Qicksight Dashboard.
 
